@@ -26,8 +26,8 @@
 
 .gallery img {
     width: 100%;
-    max-width: 150px;
-    height: 150px;
+    max-width: 200px;
+    height: 200px;
     object-fit: cover;
     border-radius: 10px;
     -webkit-filter: grayscale(100%); 
@@ -52,7 +52,7 @@ body {
     align-items: center;
     justify-content: center;
 
-    font: 0.6rem/0.7 Georgia, serif;
+    font: 1.4rem/1.4 Georgia, serif;
 
     height: 100vh;
     margin: 0;
