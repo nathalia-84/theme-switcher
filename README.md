@@ -2,7 +2,7 @@
 # Página com alternância de tema claro/escuro
 
 ## Descrição do Projeto
-<p align="center">Uma página que contém um toggle para alternar entre o tema dark e light, realizada a partir das diretrizes do <a href="https://efficient-sloth-d85.notion.site/Desafio-Theme-Switcher-dbabdf77f70d43298df382c8e805fc13">desafio da Rocketseat!</a></p>
+<p align="left">Uma página que contém um toggle para alternar entre o tema dark e light, realizada a partir das diretrizes do <a href="https://efficient-sloth-d85.notion.site/Desafio-Theme-Switcher-dbabdf77f70d43298df382c8e805fc13">desafio da Rocketseat!</a></p>
 
 <h1 align="center">
   <img alt="Página de Newsletter" title="#PáginaWeb" src="./assets/screenshots/Captura3.PNG" />
